@@ -46,9 +46,38 @@ Grading
 Final course grades will be based on the following table.
 ---------------------------------------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Final Exam | 33% |
-| Four hour Exams | 67% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+33%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four hour Exams
+{{< tdclose >}}
+{{< tdopen >}}
+67%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Recitation attendance and problem set performance will be used to determine grades for the broad group of students whose exam scores place them at the A/B, B/C, and C/D borders.

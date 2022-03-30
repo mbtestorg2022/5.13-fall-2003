@@ -4,6 +4,7 @@ description: Outline and Study Guide for Unit VII of the course. Topics include 
   and synthetic transformations.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-13-organic-chemistry-ii-fall-2003/ba51bd2a948bf3adb9c98ad7f0aef9d7_sg_vii.pdf
 file_type: application/pdf
+parent_uid: 46a13a3c-09cb-4738-5db9-9d45358bf255
 resourcetype: Document
 title: sg_vii.pdf
 uid: ba51bd2a-948b-f3ad-b9c9-8ad7f0aef9d7

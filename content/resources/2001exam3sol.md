@@ -4,6 +4,7 @@ description: Solutions to a practice exam on organic chemistry from a previous v
   of this course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-13-organic-chemistry-ii-fall-2003/f0b197cbb52e660298589957d283b241_2001exam3sol.pdf
 file_type: application/pdf
+parent_uid: b8231c67-e467-9c32-f822-dddada4c3f69
 resourcetype: Document
 title: 2001exam3sol.pdf
 uid: f0b197cb-b52e-6602-9858-9957d283b241
